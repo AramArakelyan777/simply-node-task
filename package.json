@@ -1,0 +1,11 @@
+{
+    "name": "simply-node-task",
+    "version": "1.0.0",
+    "description": "A repository for Node.js tasks.",
+    "main": "index.js",
+    "author": "Aram Arakelyan <aram777arakelyan@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "date-fns": "^4.1.0"
+    }
+}
