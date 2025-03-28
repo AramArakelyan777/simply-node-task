@@ -4,8 +4,12 @@
     "description": "A repository for Node.js tasks.",
     "main": "index.js",
     "author": "Aram Arakelyan <aram777arakelyan@gmail.com>",
+    "scripts": {
+        "start": "node --watch index.js"
+    },
     "license": "MIT",
     "dependencies": {
         "date-fns": "^4.1.0"
-    }
+    },
+    "type": "module"
 }
